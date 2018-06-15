@@ -5205,7 +5205,7 @@
                 <Apttus_Proposal__DefaultOpportunityQuoteOwner__c>Opportunity Owner</Apttus_Proposal__DefaultOpportunityQuoteOwner__c>
                 <Apttus_Proposal__DefaultQuoteAgreementOwner__c>Quote Owner</Apttus_Proposal__DefaultQuoteAgreementOwner__c>
                 <Apttus_Proposal__EmailTemplateForPresentingProposals__c>ApttusEmailTemplateForPresentingProposals</Apttus_Proposal__EmailTemplateForPresentingProposals__c>
-                <Apttus_Proposal__InstanceUrl__c>https://cs21.salesforce.com</Apttus_Proposal__InstanceUrl__c>
+                <Apttus_Proposal__InstanceUrl__c>https://na21.salesforce.com</Apttus_Proposal__InstanceUrl__c>
                 <Apttus_Proposal__MergeCallTimeoutMillis__c>60000</Apttus_Proposal__MergeCallTimeoutMillis__c>
                 <Apttus_Proposal__MergeWebserviceEndpoint__c>https://mergews.apttus.net/cgi-bin/4.2.1.2/MergeServer/Bin/MMCGI.exe</Apttus_Proposal__MergeWebserviceEndpoint__c>
                 <Apttus_QPConfig__AutoCreateOrder__c>true</Apttus_QPConfig__AutoCreateOrder__c>
